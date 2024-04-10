@@ -13,3 +13,6 @@ Our journey begins with an introduction to docker – what it is, why we should 
 > Learn more <a href="https://www.geeksforgeeks.org/introduction-to-docker/">here</a>
 
 - <a href="https://youtu.be/rOTqprHv1YE?si=VbxPFXA6jXoervBq">What Is Docker? | What Is Docker And How It Works? | Virtual Machine vs Docker
+  > #### Components of Docker
+- <a href="https://docs.docker.com/get-started/overview/#docker-architecture">Docker Architecture</a>
+-
