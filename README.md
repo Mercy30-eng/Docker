@@ -10,3 +10,5 @@ Our journey begins with an introduction to docker – what it is, why we should 
 ### Getting Started
 - <a href="https://docs.docker.com/get-started/overview/">What is Docker?</a>
 >  Docker is an open-source containerization platform by which you can pack your application and all its dependencies into a standardized unit called a container. Containers are light in weight which makes them portable and they are isolated from the underlying infrastructure and from each other container. You can run the docker image as a docker container in any machine where docker is installed without depending on the operating system.
+> Learn more <a href="https://www.geeksforgeeks.org/introduction-to-docker/">here</a>
+- <a href="">
