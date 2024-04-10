@@ -14,7 +14,8 @@ Our journey begins with an introduction to docker – what it is, why we should 
 
 - <a href="https://youtu.be/rOTqprHv1YE?si=VbxPFXA6jXoervBq">What Is Docker? | What Is Docker And How It Works? | Virtual Machine vs Docker
   > #### Components of Docker
-   - **Docker Image**: is an executable package of software that includes everything needed to run an application. 
+   - **Docker Image**: is an executable package of software that includes everything needed to run an application.
+   - **Docker Container**: is a virtual environment that bundles application code with all the dependencies required to run the application. The application runs quickly and reliably from one computing environment to another.
           
 - <a href="https://docs.docker.com/get-started/overview/#docker-architecture">Docker Architecture</a>
 -
