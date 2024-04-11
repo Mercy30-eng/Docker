@@ -19,4 +19,5 @@ Our journey begins with an introduction to docker – what it is, why we should 
    - **Docker Registry**
           
 - <a href="https://docs.docker.com/get-started/overview/#docker-architecture">Docker Architecture</a>
-- 
+
+<a href="https://youtu.be/rIrNIzy6U_g?si=lVOmHuZjwA82HSjR">100+ Docker Concepts you neeed to know</a>
